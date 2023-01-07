@@ -1,5 +1,3 @@
-### Koishi's Brief
-
 #### Interests
 * template meta programming
 * interpreter runtime & jit techniques
