@@ -3,7 +3,6 @@
 #### Interests
 * template meta programming
 * interpreter runtime & jit techniques
-* sql query optimization
 * parallel & gpu compute techniques
 * rendering techniques
 * programming languages
