@@ -1,16 +1,14 @@
-### Hi there 👋
+### Koishi's Brief
 
-<!--
-**xlnx/xlnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Interests
+* template meta programming
+* interpreter runtime & jit techniques
+* sql query optimization
+* parallel & gpu compute techniques
+* rendering techniques
+* programming languages
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Work style
+* c++/python for life, rust/typescript for joy
+* vscode/emacs
+* irregular working hours💤
